@@ -10,4 +10,4 @@ I understand many people want to work on the latest and the greatest services by
 - 
 
 # How to contribute?
-This is purely community led. It's going to be hard to validate. So, please provide any references while submitting.
+This is purely community led. It's going to be hard to validate. So, please provide any references while submitting the PR.
