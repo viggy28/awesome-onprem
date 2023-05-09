@@ -18,7 +18,8 @@ I understand many people want to work on the latest and the greatest services by
   - https://www.theregister.com/2023/01/16/basecamp_37signals_cloud_bill/
 - [LAWRENCE LIVERMORE NATIONAL LABORATORY](https://www.llnl.gov/)
   - https://hpc.llnl.gov/hardware/compute-platforms
-
+- [Kentik](https://www.kentik.com/)
+  - https://news.ycombinator.com/threads?id=avifreedman
 
 # How to contribute?
 This is purely community led. It's going to be hard to validate. So, please provide any references while submitting the PR.
