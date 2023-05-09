@@ -16,6 +16,8 @@ I understand many people want to work on the latest and the greatest services by
   - https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8
 - [Basecamp](https://basecamp.com/)
   - https://www.theregister.com/2023/01/16/basecamp_37signals_cloud_bill/
+- [LAWRENCE LIVERMORE NATIONAL LABORATORY](https://www.llnl.gov/)
+  - https://hpc.llnl.gov/hardware/compute-platforms
 
 
 # How to contribute?
