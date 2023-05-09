@@ -12,6 +12,11 @@ I understand many people want to work on the latest and the greatest services by
   - https://www.geekwire.com/2018/dropbox-saved-almost-75-million-two-years-building-tech-infrastructure/
 - [PubMatic](https://pubmatic.com/)
   - https://pubmatic.com/global-infrastructure/  
+- [Ahrefs](https://ahrefs.com/)
+  - https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8
+- [Basecamp](https://basecamp.com/)
+  - https://www.theregister.com/2023/01/16/basecamp_37signals_cloud_bill/
+
 
 # How to contribute?
 This is purely community led. It's going to be hard to validate. So, please provide any references while submitting the PR.
