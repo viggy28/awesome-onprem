@@ -10,6 +10,7 @@ I understand many people want to work on the latest and the greatest services by
 - [Dropbox](https://dropbox.com/) 
   - (https://searchaws.techtarget.com/blog/AWS-Cloud-Cover/Dropbox-is-likely-an-outlier-with-its-successful-cloud-data-migration-off-AWS)
   - https://www.geekwire.com/2018/dropbox-saved-almost-75-million-two-years-building-tech-infrastructure/
+- [Hivelocity](https://hivelocity.net)
 - [PubMatic](https://pubmatic.com/)
   - https://pubmatic.com/global-infrastructure/  
 - [Ahrefs](https://ahrefs.com/)
