@@ -5,6 +5,8 @@ A list of companies that use on-premise infrastructure heavily
 I understand many people want to work on the latest and the greatest services by the big3 [AWS, GCP and Azure] cloud providers. However, I have found it more interesting in working with companies that host their own data center and use internal tools, and open-source solutions. Maybe I am biased because I am a SRE 😉. If you are like me in the same boat, please do contribute.
 
 # Companies:
+- [Automattic](https://automattic.com/) 
+  - (https://automattic.com/work-with-us/job/systems-engineering/)
 - [Cloudflare](https://cloudflare.com/) 
 - [Digital Ocean](https://www.digitalocean.com/) (https://www.quora.com/Does-the-team-at-DigitalOcean-use-AWS)
 - [Dropbox](https://dropbox.com/) 
